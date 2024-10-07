@@ -25,7 +25,7 @@ $(document).ready(function(){
   }) 
 });
 
-//typing animation script {
+//typing animation script 
   let typed = new Typed(".typing", {
     strings: ["Developer", "Nurse"],
     typeSpeed: 100,
